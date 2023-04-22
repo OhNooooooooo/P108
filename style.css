@@ -1,0 +1,33 @@
+body{
+    font-family: 'Lilita One', cursive;
+    background: rosybrown;
+}
+.header_div{
+    background: rgb(197, 218, 174);
+    color: #616177;
+}
+.header_div p{
+font-family: 'Rubik Pixels', cursive;
+color: #990000;
+letter-spacing: 1px;
+font-size: 13px;
+font-weight:233;
+}
+.main_div button{
+font-family: 'Syncopate', sans-serif;
+margin-top:30px;
+width: 136px;
+font-weight: 235;
+letter-spacing: 1px;
+}
+.copy_right_footer{
+position: fixed;
+color: #27442f;
+bottom:0;
+width:100%;
+font-size:40px;
+background-color: rgb(151, 168, 151);
+line-height: 3;
+text-align: center;
+text-shadow: 3px 3px 3px rgb(0, 0, 0);
+}
